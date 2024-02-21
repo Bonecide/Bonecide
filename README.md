@@ -1,5 +1,4 @@
-### Hi all, I'm Kasymov Marsel 👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
-
+### Hi all, I'm Kasymov Marsel 👋 
 ## I'm a Middle Frontend developer
 
 - 📍 I’m From Kyrgyzstan (Bishkek)
@@ -8,8 +7,8 @@
 ### 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="react native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
@@ -18,6 +17,9 @@
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt='tailwind' src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
+<img alt='angular' src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;
+<img alt='threeJs' src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
+
 
 ### 🛠 Tools:
 
