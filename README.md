@@ -2,7 +2,7 @@
 ## I'm a Middle Frontend developer
 
 - 📍 I’m From Kyrgyzstan (Bishkek)
-- 💻 2 Years Experience in Front-end Development
+- 💻 3 Years Experience in Front-end Development
 
 ### 💻 Tech Stack:
 
